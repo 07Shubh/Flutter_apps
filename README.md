@@ -1,4 +1,4 @@
-# flutter_app
+# Simple Interest Calculator
 
 A new Flutter application.
 
